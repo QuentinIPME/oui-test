@@ -1,5 +1,5 @@
 <?php
 
-echo "Oui bonjour !";
+echo "Oui bonjour ! \n" ;
 echo getenv("OTHER_VAR");
 
