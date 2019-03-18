@@ -1,4 +1,5 @@
 <?php
 
-echo "Oui bonjour !" $OTHER_VAR;
+echo "Oui bonjour !";
+echo $OTHER_VAR;
 
